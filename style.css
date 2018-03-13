@@ -1,0 +1,56 @@
+img { 
+    display: flex;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 300px;
+    margin-bottom: auto;
+    border-radius: 15%;
+    border: 0px solid #262626;
+}   
+
+h1 {
+    background: red;
+    width: auto;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Sigmar One', cursive;
+    margin-bottom: 0px;
+}  
+
+h1 img {
+    position: absolute;
+    width: 70px;
+    margin: 14px;
+    margin-left: 30px;
+}
+
+p {
+    position: relative;
+    background: white;
+    border: 0px solid #262626;
+    border-radius: 25%;
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 70px;
+    font-size: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Sigmar One', cursive;
+    width: 300px;
+}
+
+
+main {
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
+    max-width: inherit;
+    text-align: center;
+}
+
+body {
+    background: #0099cc;
+}
